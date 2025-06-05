@@ -1,11 +1,11 @@
 import random
 
 #random password generator
-#must contain at least 1 Upper Case
-#must contain at least 1 lower case
-#must contain at least 1 special character (e.g. "-", "_", "!", etc.)
-#must contain at least 1 number
-#must have a length size of at least 8 characters
+#contains at least 1 Upper Case
+#contains at least 1 lower case
+#contains at least 1 special character (e.g. "-", "_", "!", etc.)
+#contains at least 1 number
+#has a length size of at least 8 characters up to 16 characters
 
 
 def lst_lower_cases():
